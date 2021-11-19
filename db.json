@@ -23,9 +23,6 @@
       "author": "Joseph Marie",
       "discount_price": 920,
       "market_price": 1040,
-      "description": "Course for mobile app development",
-      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
-      "addedToWishlist": false
     },
     {
       "id": 2,
@@ -33,9 +30,6 @@
       "author": "Lily Marie",
       "discount_price": 150,
       "market_price": 1040,
-      "description": "Course for python programming",
-      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
-      "addedToWishlist": false
     },
     {
       "id": 3,
@@ -43,9 +37,6 @@
       "author": "Sara Marie",
       "discount_price": 450,
       "market_price": 1040,
-      "description": "Course for robotics bootcamp development",
-      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
-      "addedToWishlist": false
     },
     {
       "id": 4,
@@ -53,9 +44,6 @@
       "author": "Jona Marie",
       "discount_price": 600,
       "market_price": 1040,
-      "description": "Course for java development",
-      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
-      "addedToWishlist": false
     },
     {
       "id": 5,
@@ -63,9 +51,6 @@
       "author": "Sonia Marie",
       "discount_price": 980,
       "market_price": 1040,
-      "description": "Course for IOT development",
-      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
-      "addedToWishlist": false
     },
     {
       "id": 6,
@@ -73,9 +58,6 @@
       "author": "Ralph Marie",
       "discount_price": 650,
       "market_price": 1040,
-      "description": "Course for arduino development",
-      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
-      "addedToWishlist": false
     }
   ],
   "cart": [
@@ -86,8 +68,6 @@
         "author": "Sara Marie",
         "discount_price": 450,
         "market_price": 1040,
-        "description": "Course for robotics bootcamp development",
-        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
         "addedToWishlist": false
       },
       "id": 1
@@ -99,8 +79,6 @@
         "author": "Jona Marie",
         "discount_price": 600,
         "market_price": 1040,
-        "description": "Course for java development",
-        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
         "addedToWishlist": false
       },
       "id": 2
@@ -112,8 +90,6 @@
         "author": "Sonia Marie",
         "discount_price": 980,
         "market_price": 1040,
-        "description": "Course for IOT development",
-        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
         "addedToWishlist": false
       },
       "id": 3
@@ -125,8 +101,6 @@
         "author": "Joseph Marie",
         "discount_price": 920,
         "market_price": 1040,
-        "description": "Course for mobile app development",
-        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
         "addedToWishlist": false
       },
       "id": 4
@@ -138,8 +112,6 @@
         "author": "Lily Marie",
         "discount_price": 150,
         "market_price": 1040,
-        "description": "Course for python programming",
-        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
         "addedToWishlist": false
       },
       "id": 5
@@ -151,8 +123,6 @@
         "author": "Joseph Marie",
         "discount_price": 920,
         "market_price": 1040,
-        "description": "Course for mobile app development",
-        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
         "addedToWishlist": false
       },
       "id": 6
@@ -164,8 +134,6 @@
         "author": "Joseph Marie",
         "discount_price": 920,
         "market_price": 1040,
-        "description": "Course for mobile app development",
-        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
         "addedToWishlist": false
       },
       "id": 7
@@ -177,8 +145,6 @@
         "author": "Lily Marie",
         "discount_price": 150,
         "market_price": 1040,
-        "description": "Course for python programming",
-        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
         "addedToWishlist": false
       },
       "id": 8
@@ -190,8 +156,6 @@
         "author": "Lily Marie",
         "discount_price": 150,
         "market_price": 1040,
-        "description": "Course for python programming",
-        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
         "addedToWishlist": false
       },
       "id": 9

@@ -1,0 +1,206 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "products": [
+    {
+      "id": 1,
+      "title": "Mobile App Development",
+      "author": "Joseph Marie",
+      "discount_price": 920,
+      "market_price": 1040,
+      "description": "Course for mobile app development",
+      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+      "addedToWishlist": false
+    },
+    {
+      "id": 2,
+      "title": "Python Programming",
+      "author": "Lily Marie",
+      "discount_price": 150,
+      "market_price": 1040,
+      "description": "Course for python programming",
+      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+      "addedToWishlist": false
+    },
+    {
+      "id": 3,
+      "title": "Robotics BootCamp",
+      "author": "Sara Marie",
+      "discount_price": 450,
+      "market_price": 1040,
+      "description": "Course for robotics bootcamp development",
+      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+      "addedToWishlist": false
+    },
+    {
+      "id": 4,
+      "title": "Java Development",
+      "author": "Jona Marie",
+      "discount_price": 600,
+      "market_price": 1040,
+      "description": "Course for java development",
+      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+      "addedToWishlist": false
+    },
+    {
+      "id": 5,
+      "title": "IOT Development",
+      "author": "Sonia Marie",
+      "discount_price": 980,
+      "market_price": 1040,
+      "description": "Course for IOT development",
+      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+      "addedToWishlist": false
+    },
+    {
+      "id": 6,
+      "title": "Arduino Development",
+      "author": "Ralph Marie",
+      "discount_price": 650,
+      "market_price": 1040,
+      "description": "Course for arduino development",
+      "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+      "addedToWishlist": false
+    }
+  ],
+  "cart": [
+    {
+      "product": {
+        "id": 3,
+        "title": "Robotics BootCamp",
+        "author": "Sara Marie",
+        "discount_price": 450,
+        "market_price": 1040,
+        "description": "Course for robotics bootcamp development",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+        "addedToWishlist": false
+      },
+      "id": 1
+    },
+    {
+      "product": {
+        "id": 4,
+        "title": "Java Development",
+        "author": "Jona Marie",
+        "discount_price": 600,
+        "market_price": 1040,
+        "description": "Course for java development",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+        "addedToWishlist": false
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "id": 5,
+        "title": "IOT Development",
+        "author": "Sonia Marie",
+        "discount_price": 980,
+        "market_price": 1040,
+        "description": "Course for IOT development",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+        "addedToWishlist": false
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "id": 1,
+        "title": "Mobile App Development",
+        "author": "Joseph Marie",
+        "discount_price": 920,
+        "market_price": 1040,
+        "description": "Course for mobile app development",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+        "addedToWishlist": false
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "id": 2,
+        "title": "Python Programming",
+        "author": "Lily Marie",
+        "discount_price": 150,
+        "market_price": 1040,
+        "description": "Course for python programming",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+        "addedToWishlist": false
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "id": 1,
+        "title": "Mobile App Development",
+        "author": "Joseph Marie",
+        "discount_price": 920,
+        "market_price": 1040,
+        "description": "Course for mobile app development",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+        "addedToWishlist": false
+      },
+      "id": 6
+    },
+    {
+      "product": {
+        "id": 1,
+        "title": "Mobile App Development",
+        "author": "Joseph Marie",
+        "discount_price": 920,
+        "market_price": 1040,
+        "description": "Course for mobile app development",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+        "addedToWishlist": false
+      },
+      "id": 7
+    },
+    {
+      "product": {
+        "id": 2,
+        "title": "Python Programming",
+        "author": "Lily Marie",
+        "discount_price": 150,
+        "market_price": 1040,
+        "description": "Course for python programming",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+        "addedToWishlist": false
+      },
+      "id": 8
+    },
+    {
+      "product": {
+        "id": 2,
+        "title": "Python Programming",
+        "author": "Lily Marie",
+        "discount_price": 150,
+        "market_price": 1040,
+        "description": "Course for python programming",
+        "imageUrl": "https://s3-ap-southeast-1.amazonaws.com/ufaber-lms/uploads/imgs/Mobile+App+Development.png",
+        "addedToWishlist": false
+      },
+      "id": 9
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 1
+    }
+  ],
+  "userprofile": []
+}
